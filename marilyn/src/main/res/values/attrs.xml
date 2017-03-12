@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Marilyn">
+        <attr name="loopable" format="boolean" />
+        <attr name="viewPager_marginLeft" format="dimension" />
+        <attr name="viewPager_marginRight" format="dimension" />
+        <attr name="pageIndicator_margin" format="dimension" />
+        <attr name="pageIndicator_space" format="dimension" />
+    </declare-styleable>
+</resources>

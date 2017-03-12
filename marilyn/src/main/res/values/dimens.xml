@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="page_indicator_container_default_margin">8dp</dimen>
+    <dimen name="page_indicator_container_default_space">4px</dimen>
+</resources>
